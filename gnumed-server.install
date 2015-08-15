@@ -1,0 +1,4 @@
+post_install() {
+  echo "You will need to configure GNUmed-Server with PostgreSQL. \
+The following page should help http://wiki.gnumed.de/bin/view/Gnumed/GmManualServerInstall"
+}
